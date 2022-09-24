@@ -1,0 +1,13 @@
+package br.helis.backend;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class BackendWebApplicationTest {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
